@@ -20,3 +20,4 @@ export const AvailableTaskStatus = Object
 
 // ---------------------------/
 
+export const DB_NAME = "ProjectHUB";
